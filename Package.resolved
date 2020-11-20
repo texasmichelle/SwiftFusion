@@ -23,7 +23,7 @@
         "package": "Benchmark",
         "repositoryURL": "https://github.com/google/swift-benchmark.git",
         "state": {
-          "branch": "master",
+          "branch": "main",
           "revision": "34c2f072feb6aa74dcc5f2d8e066fe4f2a0af73c",
           "version": null
         }
